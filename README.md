@@ -22,12 +22,5 @@ Geospatial Data Engineer & Researcher specializing in high-performance routing e
 - **Data Engineering**: PySpark, Docker, Hamilton Pipeline
 - **Simulation**: SUMO (Simulation of Urban MObility)
 
-## Contact
-
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/khoshkhah/)
-- 💻 [**GitHub**](https://github.com/khoshkhah)
-- 📧 [**Email**](mailto:khoshkhah@gmail.com)
-- 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=Khoshkhah)
-
 ---
 
