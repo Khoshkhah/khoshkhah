@@ -8,7 +8,8 @@ Geospatial Data Engineer & Researcher specializing in high-performance routing e
 | :--- | :--- | :--- |
 | [**H3 Routing Platform**](https://github.com/khoshkhah/h3-routing-platform) | High-performance routing engine using H3 spatial hierarchy and a specialized C++ backend. | C++, Python, FastAPI, H3 |
 | [**NRTMapMatching**](https://github.com/khoshkhah/NRTMapMatching) | Near real-time map matching library for GPS trajectories using cubic Bezier interpolation. | Python, Shapely, R-tree, Pandas |
-| [**Hornsgatan Pipeline**](https://github.com/khoshkhah/Hornsgatan) | Traffic simulation and calibration pipeline (**DTA/NRTCalib**) for Stockholm using SUMO and Hamilton. | SUMO, Python, Hamilton, Scikit-Optimize |
+| [**Hornsgatan Pipeline**](https://github.com/khoshkhah/Hornsgatan) | Traffic simulation and calibration pipeline for Stockholm using SUMO and Hamilton. | SUMO, Python, Hamilton, Scikit-Optimize |
+| [**NRTCalib**](https://github.com/khoshkhah/NRTCalib) | Near real-time calibration engine for traffic simulation parameters. | Python, Bayesian Optimization, SUMO |
 | [**duckOSM**](https://github.com/khoshkhah/h3-routing-platform/tree/main/tools/duckOSM) | High-performance OSM-to-DuckDB converter with streaming SQL processing. | DuckDB, SQL, Python |
 | [**osm2sql**](https://github.com/khoshkhah/osm2sql) | Toolset for extracting and importing OSM data into PostgreSQL/PostGIS. | PostgreSQL, PostGIS, Docker, Python |
 | [**PySpark Routing**](https://github.com/khoshkhah/osm-routing-h3-pyspark) | Distributed all-pairs shortest path calculation using an iterative Spark implementation. | PySpark, Python |
