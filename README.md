@@ -1,8 +1,8 @@
-# Hello, I'm Kaveh Khoshkhah 👋
+# Hello, I'm Kaveh Khoshkhah 
 
 Geospatial Data Engineer & Researcher specializing in high-performance routing engines, spatial indexing, and traffic simulation.
 
-## 🚀 Key Projects
+## Key Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -15,17 +15,19 @@ Geospatial Data Engineer & Researcher specializing in high-performance routing e
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 - **Languages**: Python, C++, SQL, TypeScript
 - **GIS & Data**: H3, DuckDB, PostGIS, Shapely, Pyrosm, Overture Maps
 - **Data Engineering**: PySpark, Docker, Hamilton Pipeline
 - **Simulation**: SUMO (Simulation of Urban MObility)
 
-## 📫 Contact
+## Contact
 
-- **LinkdeIn**: [Kaveh Khoshkhah](https://www.linkedin.com/in/kaveh-khoshkhah/)
-- **GitHub**: [@khoshkhah](https://github.com/khoshkhah)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/khoshkhah/)
+- 💻 [**GitHub**](https://github.com/khoshkhah)
+- 📧 [**Email**](mailto:khoshkhah@gmail.com)
+- 🎓 [**Google Scholar**](https://scholar.google.com/citations?user=Khoshkhah)
 
 ---
-*Created with ❤️ and a lot of geospatial data.*
+
