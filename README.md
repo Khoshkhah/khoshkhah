@@ -6,7 +6,7 @@ Geospatial Data Engineer & Researcher specializing in high-performance routing e
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**H3 Routing Platform**](https://github.com/khoshkhah/h3-routing-platform) | High-performance routing engine using H3 spatial hierarchy and a specialized C++ backend. | C++, Python, FastAPI, H3 |
+| [**H3 Routing Platform**](https://github.com/khoshkhah/h3-routing-platform) | High-performance routing engine using H3 spatial hierarchy and a specialized C++ backend. | C++, Python, DuckDB, FastAPI, H3 |
 | [**NRTMapMatching**](https://github.com/khoshkhah/NRTMapMatching) | Near real-time map matching library for GPS trajectories using cubic Bezier interpolation. | Python, Shapely, R-tree, Pandas |
 | [**Hornsgatan Pipeline**](https://github.com/khoshkhah/Hornsgatan) | Traffic simulation and calibration pipeline for Stockholm using SUMO and Hamilton. | SUMO, Python, Hamilton, Scikit-Optimize |
 | [**NRTCalib**](https://github.com/khoshkhah/NRTCalib) | Near real-time calibration engine for traffic simulation parameters. | Python, Bayesian Optimization, SUMO |
