@@ -10,7 +10,8 @@ Geospatial Data Engineer & Researcher specializing in high-performance routing e
 | [**NRTMapMatching**](https://github.com/khoshkhah/NRTMapMatching) | Near real-time map matching library for GPS trajectories using cubic Bezier interpolation. | Python, Shapely, R-tree, Pandas |
 | [**Hornsgatan Pipeline**](https://github.com/khoshkhah/Hornsgatan) | Traffic simulation and calibration pipeline for Stockholm using SUMO and Hamilton. | SUMO, Python, Hamilton, Scikit-Optimize |
 | [**NRTCalib**](https://github.com/khoshkhah/NRTCalib) | Near real-time calibration engine for traffic simulation parameters. | Python, Bayesian Optimization, SUMO |
-| [**duckOSM**](https://github.com/khoshkhah/h3-routing-platform/tree/main/tools/duckOSM) | High-performance OSM-to-DuckDB converter with streaming SQL processing. | DuckDB, SQL, Python |
+| [**duckOSM**](https://github.com/khoshkhah/duckOSM) | High-performance OSM-to-DuckDB converter with streaming SQL processing. | DuckDB, SQL, Python |
+| [**osm-traffic-enrichment**](https://github.com/khoshkhah/osm-traffic-enrichment) | End-to-end pipeline that enriches OSM road networks with real-time Mapbox traffic congestion. Combines duckOSM, Mapbox vector tiles, and geometric map matching into a single CLI tool. | DuckDB, Mapbox API, GeoPandas, H3 |
 | [**osm2sql**](https://github.com/khoshkhah/osm2sql) | Toolset for extracting and importing OSM data into PostgreSQL/PostGIS. | PostgreSQL, PostGIS, Docker, Python |
 | [**PySpark Routing**](https://github.com/khoshkhah/osm-routing-h3-pyspark) | Distributed all-pairs shortest path calculation using an iterative Spark implementation. | PySpark, Python |
 
